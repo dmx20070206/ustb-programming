@@ -4,3 +4,4 @@
 * [在线文档建设](/construction-of-online-documents/)
 * [基础知识库](/basic-knowledge/)
   * [LLM 的使用](/basic-knowledge/LLM.md)
+  * [VScode 配置 C/C++ 语言环境](/basic-knowledge/VScode.md)
