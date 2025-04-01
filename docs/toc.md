@@ -1,6 +1,7 @@
 * [讲师招募](/lecturer-recruitment/)
 * [讲师风采](/lecturer-style/)
   * [李承俊：广度优先搜索和深度优先搜索](/lecturer-style/若叶睦.md)
+  * [王清翰：从枚举和动态规划的角度解决 01 背包问题](/lecturer-style/矢北.md)
 * [在线文档建设](/construction-of-online-documents/)
 * [基础知识库](/basic-knowledge/)
   * [LLM 的使用](/basic-knowledge/LLM.md)
